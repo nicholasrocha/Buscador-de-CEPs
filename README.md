@@ -1,7 +1,7 @@
 # Projeto buscador de Ceps
 O objetivo do projeto é pesquisar CEPs em uma api chamada https://viacep.com.br
 ## Design do projeto
-![alt text](image.png)
+![alt text](image-1.png)
 ## API ultilizada
 A API https://viacep.com.br retorna um json contendo as sequintes informações para um cep de exemplo: 6086754
 ```
@@ -26,9 +26,9 @@ https://viacep.com.br/ws/60867540/json/
 ## Funcionalidades
 - [x] Busca do CEP
 - [x] Limpar dados
-- [ ] Melhorado o design
-- [ ] Responsividade
-- [ ] Rodapé
+- [x] Melhorado o design
+- [x] Responsividade
+- [x] Rodapé
 
 ## Observações
 > [!NOTE]
